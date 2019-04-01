@@ -43,6 +43,8 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | All      | An Azure account                    | Windows 10                         |
 
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789800227_ColorImages.pdf).
+
 
 ### Related product <Other books you may enjoy>
 * Learn Microsoft Azure [[Packt]](https://prod.packtpub.com/virtualization-and-cloud/learn-microsoft-azure?utm_source=github&utm_medium=repository&utm_campaign=9781789617580) [[Amazon]](https://www.amazon.com/dp/1789617588)
